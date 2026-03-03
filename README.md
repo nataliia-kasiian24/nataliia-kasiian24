@@ -35,5 +35,5 @@ Built using HTML5, CSS3 (SASS).
 ---
 
 <p align="right">
-  <img src="https://u8views.com/api/v1/github/profiles/nataliia-kasiian24/views/day-image" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=nataliia-kasiian24&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
